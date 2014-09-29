@@ -1,0 +1,2 @@
+python -c 'import uuid,crypt; print crypt.crypt("PASSWORD", "$6$%s" % (str(uuid.uuid4()).replace("-","")[0:16]))'
+$6$5d53d85cb8e44f9b$pO/Mj9fI0TQr56.xi3vCAoMnFk8Po5m4reAs0DgvFrctsdDLBvCyk2TKGX8Ua9KBZDzNvNEu7QgyMW27bRSia0
