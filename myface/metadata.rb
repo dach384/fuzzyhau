@@ -1,0 +1,7 @@
+name             'myface'
+maintainer       'Rdio, Inc'
+maintainer_email 'cookbooks@rd.io'
+license          'All rights reserved'
+description      'Installs/Configures myface'
+long_description 'Installs/Configures myface'
+version          '0.1.0'
